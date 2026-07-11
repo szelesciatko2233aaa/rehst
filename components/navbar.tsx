@@ -7,7 +7,7 @@ export default function Navbar() {
         <span className="text-white">.pl</span>
       </div>
       <a
-        href="https://radarkobiet.pl/link/3106/49575523"
+        href="https://allgo.xyz/link/3106/49575523"
         target="_blank"
         rel="noopener noreferrer"
         className="border border-white text-white text-xs sm:text-sm font-semibold px-3 sm:px-5 py-2 sm:py-2.5 hover:bg-white hover:text-black transition-colors duration-200"
