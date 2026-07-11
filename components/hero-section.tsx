@@ -46,7 +46,7 @@ export default function HeroSection() {
 
         {/* CTA Button */}
         <a
-          href="https://radarkobiet.pl/link/3106/49575523"
+          href="https://allgo.xyz/link/3106/49575523"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-white font-bold text-base sm:text-lg px-8 sm:px-10 py-3.5 sm:py-4 rounded-full transition-all duration-200 hover:scale-105 active:scale-95 mb-7"
