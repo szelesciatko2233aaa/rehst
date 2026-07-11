@@ -31,7 +31,7 @@ const profiles = [
   },
 ]
 
-const AFFILIATE_URL = 'https://radarkobiet.pl/link/3106/49575523'
+const AFFILIATE_URL = 'https://allgo.xyz/link/3106/49575523'
 const AUTO_ADVANCE_MS = 3500
 
 export default function ProfilesSection() {
