@@ -35,7 +35,7 @@ export default function HeroSection() {
         {/* Headline */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-white leading-tight max-w-3xl text-balance mb-3">
           Darmowe{' '}
-          <span style={{ color: '#ff0099' }}>sex</span>{' '}
+          <span style={{ color: '#ff0099' }}>dyskretne</span>{' '}
           spotkania z{' '}
           <span style={{ color: '#00e5ff' }}>kobietami</span>!
         </h1>
