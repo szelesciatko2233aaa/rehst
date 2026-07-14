@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Randkuj24.pl – Darmowe sex spotkania z kobietami!',
+  title: 'Randkuj24.pl – Darmowe spotkania z kobietami!',
   description: 'Zarejestruj się w kilka sekund i otrzymuj wiadomości już teraz! Randkuj24.pl – największy portal randkowy w Polsce.',
 }
 
