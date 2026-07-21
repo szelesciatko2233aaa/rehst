@@ -15,7 +15,7 @@ export default function CtaSection() {
         Dołącz do tysięcy zadowolonych użytkowników. Rejestracja zajmuje tylko chwilę.
       </p>
       <a
-        href="https://radarkobiet.pl/link/3106/49575523"
+        href="https://firead.org/link/3106/49575523"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-2 text-white font-bold text-base sm:text-lg px-8 sm:px-12 py-3.5 sm:py-4 rounded-full transition-all duration-200 hover:scale-105 active:scale-95"
