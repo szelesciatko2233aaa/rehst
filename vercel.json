@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/kamila",
+      "destination": "https://randkuj24.pl",
+      "permanent": true
+    }
+  ]
+}
